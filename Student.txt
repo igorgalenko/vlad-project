@@ -1,5 +1,5 @@
 Student name: Vladyslav Halenko
 Student number: 712939
 Student class: IT1B
-GitHub Repository: your github repository URL
-GitHub Pages URL: your github pages URL
+GitHub Repository: https://github.com/igorgalenko/vlad-project
+GitHub Pages URL: https://igorgalenko.github.io/vlad-project/
